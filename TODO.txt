@@ -1,0 +1,3 @@
+- look into backend implementation
+- google maps api? / database with the possibility of adding places manually
+ - simple frontend to test database
